@@ -1,4 +1,3 @@
-<!-- C:\Users\Reyhan\Documents\spk\register.php -->
 <?php
 include 'header.php';
 ?>

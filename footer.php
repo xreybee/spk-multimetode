@@ -1,4 +1,3 @@
-<!-- C:\Users\Reyhan\Documents\spk\footer.php -->
     <footer class="footer-container">
         <div class="container footer-inner">
             <p>&copy; 2026 Sistem Penunjang Keputusan Multi-Metode. All Rights Reserved.</p>

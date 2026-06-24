@@ -1,4 +1,3 @@
-<!-- C:\Users\Reyhan\Documents\spk\dashboard.php -->
 <?php
 include 'header.php';
 ?>

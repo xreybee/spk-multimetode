@@ -1,4 +1,3 @@
-<!-- C:\Users\Reyhan\Documents\spk\header.php -->
 <?php
 // Start session for local server features if needed
 if (session_status() == PHP_SESSION_NONE) {
